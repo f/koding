@@ -44,7 +44,7 @@
     "gulp.spritesmith": "6.0.1",
     "htmlencode": "0.0.4",
     "imagemin-pngquant": "4.2.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "vinyl-source-stream": "1.1.0"
   }
 }
