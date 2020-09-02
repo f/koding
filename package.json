@@ -50,7 +50,7 @@
     "geoip-lite": "1.1.6",
     "git-rev": "0.2.1",
     "github": "0.2.4",
-    "googleapis": "1.1.5",
+    "googleapis": "59.0.0",
     "gulp": "3.8.11",
     "hat": "0.0.3",
     "helmet": "0.2.4",
